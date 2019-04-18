@@ -158,7 +158,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [surge](pages/static-app-hosting.md#surge)
 - [**SSL**](pages/ssl.md)
     - [Let's Encrypt](#)
-    - [Certbot] (#)
+    - [Certbot](#)
 - [**User authentication**](pages/user-authentication.md)
     - [Auth0](pages/user-authentication.md#auth0)
     - [AWS Cognito](pages/user-authentication.md#aws-cognito)
